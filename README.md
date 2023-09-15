@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @DavidEAV3
-- 👀 I’m interested in weightlifting, mountian biking, hiking, snowboarding, AI, and Data Analytics.
+- 📫 I'm currently a freshman at The University of Colorado - Boulder
+- 👀 I’m interested in weightlifting, mountian biking, hiking, snowboarding, Software Engineering, and Data Analytics.
 - 🌱 I’m currently learning how to code in C++
 - 💞️ I’m looking to collaborate on projects involving a very base level undestanding in C++
 - 📫 How to reach me:
